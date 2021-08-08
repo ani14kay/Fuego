@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927270201232",
+    "project_id": "fuego-4ff63",
+    "storage_bucket": "fuego-4ff63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927270201232:android:dcc65b95985b4dd3f13515",
+        "android_client_info": {
+          "package_name": "com.tatvaalife.fuego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927270201232-bmoducjuphccdsl5eg8ufr3975vii0fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tatvaalife.fuego",
+            "certificate_hash": "e75f2436f2a250e93dfed8e00cdaf088c6bf862b"
+          }
+        },
+        {
+          "client_id": "927270201232-sd0pnkio6ufljtav6asi28p4usm8hevo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFrlvBKh_lQ4Tk6hn5EaijY6j5_2P0Hx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927270201232-sd0pnkio6ufljtav6asi28p4usm8hevo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
